@@ -1,0 +1,15 @@
+C:\Users\eduardoclemente\Downloads\backend\src\main\java\br\com\sgc\BackendApplication.java
+C:\Users\eduardoclemente\Downloads\backend\src\main\java\br\com\sgc\config\SecurityConfig.java
+C:\Users\eduardoclemente\Downloads\backend\src\main\java\br\com\sgc\config\SecurityFilter.java
+C:\Users\eduardoclemente\Downloads\backend\src\main\java\br\com\sgc\controller\AutenticacaoController.java
+C:\Users\eduardoclemente\Downloads\backend\src\main\java\br\com\sgc\controller\ClienteController.java
+C:\Users\eduardoclemente\Downloads\backend\src\main\java\br\com\sgc\controller\ProdutoController.java
+C:\Users\eduardoclemente\Downloads\backend\src\main\java\br\com\sgc\domain\model\Cliente.java
+C:\Users\eduardoclemente\Downloads\backend\src\main\java\br\com\sgc\domain\model\Produto.java
+C:\Users\eduardoclemente\Downloads\backend\src\main\java\br\com\sgc\domain\model\Usuario.java
+C:\Users\eduardoclemente\Downloads\backend\src\main\java\br\com\sgc\dto\DadosLogin.java
+C:\Users\eduardoclemente\Downloads\backend\src\main\java\br\com\sgc\repository\ClienteRepository.java
+C:\Users\eduardoclemente\Downloads\backend\src\main\java\br\com\sgc\repository\ProdutoRepository.java
+C:\Users\eduardoclemente\Downloads\backend\src\main\java\br\com\sgc\repository\UsuarioRepository.java
+C:\Users\eduardoclemente\Downloads\backend\src\main\java\br\com\sgc\service\AutenticacaoService.java
+C:\Users\eduardoclemente\Downloads\backend\src\main\java\br\com\sgc\service\TokenService.java
