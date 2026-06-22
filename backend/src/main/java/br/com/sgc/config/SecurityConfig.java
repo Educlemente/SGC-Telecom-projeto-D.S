@@ -34,6 +34,7 @@ public class SecurityConfig {
             .sessionManagement(sm -> sm.sessionCreationPolicy(SessionCreationPolicy.STATELESS))
             .authorizeHttpRequests(auth -> auth
                 .requestMatchers(HttpMethod.POST, "/auth/login").permitAll() // Rota de login liberada
+                .requestMatchers(HttpMethod.GET, "/produtos").permitAll()
                 .requestMatchers(HttpMethod.POST, "/auth/registrar").permitAll() // Rota de cadastro liberada
                 .anyRequest().authenticated() // TODO O RESTO ESTÁ TRANCADO!
             )
